@@ -34,7 +34,7 @@ module.exports = {
   ],
   author: {
     name: 'Jerry Qin',
-    photo: '/photo.jpg',
+    photo: 'photo.jpg',
     bio: 'Personal Website and Blog',
     contacts: {
       email: 'jerry.qin@vanderbilt.edu',
