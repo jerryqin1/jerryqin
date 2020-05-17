@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://jerryqin.com',
   pathPrefix: '/',
-  title: 'Jerry Qin',
+  title: 'jerryqin.com',
   subtitle: 'Personal Website and Blog',
   copyright: '© Jerry Qin 2020',
   disqusShortname: '',
@@ -13,28 +13,28 @@ module.exports = {
   menu: [
     {
       label: 'Blog',
-      path: ''
+      path: '/'
     },
     {
       label: 'About',
-      path: 'pages/about'
+      path: '/pages/about'
     },
     {
       label: 'Categories',
-      path: 'pages/categories'
+      path: '/pages/categories'
     },
     {
       label: 'Projects',
-      path: 'pages/projects'
+      path: '/pages/projects'
     },
     {
       label: 'Contact',
-      path: 'pages/contact'
+      path: '/pages/contact'
     },
   ],
   author: {
     name: 'Jerry Qin',
-    photo: 'photo.jpg',
+    photo: '/photo.jpg',
     bio: 'Personal Website and Blog',
     contacts: {
       email: 'jerry.qin@vanderbilt.edu',
