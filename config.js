@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://jerryqin1.github.io',
+  url: 'https://jerryqin1.github.io/jerryqin.com',
   pathPrefix: '/',
   title: 'Jerry Qin',
   subtitle: 'Personal Website and Blog',
