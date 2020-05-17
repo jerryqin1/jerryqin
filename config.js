@@ -3,12 +3,12 @@
 module.exports = {
   url: 'https://jerryqin.com',
   pathPrefix: '/',
-  title: 'jerryqin.com',
+  title: 'Jerry Qin',
   subtitle: 'Personal Website and Blog',
   copyright: '© Jerry Qin 2020',
   disqusShortname: '',
   postsPerPage: 6,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-166864323-1',
   useKatex: true,
   menu: [
     {
