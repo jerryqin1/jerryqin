@@ -18,9 +18,10 @@ const Post = ({ post }: Props) => {
   const { tagSlugs, slug } = post.fields;
   const { tags, title, date } = post.frontmatter;
 
+
+//<Link className={styles['post__home-button']} to="/">All Articles</Link>
   return (
     <div className={styles['post']}>
-      <Link className={styles['post__home-button']} to="/">All Articles</Link>
       <div className={styles['post__content']}>
         <Content body={html} title={title}/>
         <p> <Meta date={date} /> </p>
