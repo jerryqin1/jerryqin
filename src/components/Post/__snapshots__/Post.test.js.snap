@@ -4,12 +4,13 @@ exports[`Post renders correctly 1`] = `
 <div
   className="post"
 >
-  <a
+  /*  <a
     className="post__home-button"
     href="/"
   >
     All Articles
-  </a>
+  </a>  */
+  
   <div
     className="post__content"
   >
