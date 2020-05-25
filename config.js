@@ -6,7 +6,7 @@ module.exports = {
   title: 'Jerry Qin',
   subtitle: 'Personal Website and Blog',
   copyright: '© Jerry Qin 2020',
-  disqusShortname: '',
+  disqusShortname: 'jerryqin-com',
   postsPerPage: 6,
   googleAnalyticsId: 'UA-166864323-1',
   useKatex: true,
