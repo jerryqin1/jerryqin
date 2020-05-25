@@ -5,6 +5,7 @@ template: "post"
 draft: false
 slug: "we-don't-say-love"
 category: "Poetry"
+
 tags:
   - "Poetry"
   - "Blank Verse"
@@ -31,7 +32,7 @@ up to my room in silence while I slept
 before departing home for work each day.  
 We don’t say love. Instead we might say “<ruby>
 疼 <rp>(</rp><rt>téng</rt><rp>)</rp>
-</ruby>”    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (“to hurt/to love fondly”)  
+</ruby>” &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (“to hurt/love fondly”)  
 as if to note that love inherently  
 implies self-sacrifice. We might say this,  
 but never love. For love is too simple  
@@ -47,7 +48,7 @@ I call my mom to ask, “你吃了吗?"*
 
 I originally wrote this poem for a class I took to develop my poetry-writing and practice writing in form. Some technical details about this poem: it’s written in iambic pentameter blank verse. I chose this topic to address how love is expressed and perceived in Asian communities. Specifically, I wanted to address the phenomenon that Asian-American families rarely say that they love each other and, more often than not, choose to express themselves through selfless action instead of words.
 
-Growing up, I often struggled to reconcile the two, often opposing sides of my identity. Chinese and American culture disagree fundamentally on issues regarding an individual's identity and purpose. While one favors creative expression and individualism, the other prioritizes one's connection and duty to family. Growing up in America and immersing myself in American media and education helped me develop an understanding of my nation and myself. It's part the experience that drove many of our parents to immigrate to the U.S. in the first place one that has provided many of us with opportunities and freedoms that were unavailable to our parents. Yet this same experience has the power to unequivocally estrange us from our Asian culture and heritage. 
+Growing up, I often struggled to reconcile the two, often opposing sides of my identity. Chinese and American culture disagree fundamentally on issues regarding an individual's identity and purpose. While one favors creative expression and individualism, the other prioritizes one's connection and duty to family. Growing up in America andbein immersed in American media and education has helped me develop an understanding of my nation and myself. It's part the experience that drove many of our parents to immigrate to the U.S. in the first place one that has provided many of us with opportunities and freedoms that were unavailable to our parents. Yet this same experience has the power to unequivocally estrange us from our Asian culture and heritage. 
 
 And while I've come to better understand my identity as a Chinese-American, I sometimes still have trouble internalizing some of the nuances of Chinese culture. This poem is my personal attempt to comment on and appreciate the nuance of love in Chinese culture. While we don't express it directly through our words, we demonstrate the immensity of our love for one another through the subtle actions and comments that often go unnoticed by each other. As a result, expressing love and appreciation for others has become synonymous with "show don't tell" in my daily life. 
 
