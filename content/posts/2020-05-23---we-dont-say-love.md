@@ -12,7 +12,7 @@ tags:
 description: "A blank verse poem and discussion on filial affection and piety in Chinese culture."
 ---
 
-Below is a piece in iambic pentameter blank verse I was working on a while back:
+Welcome to my first (real) blog post! Below is a piece in iambic pentameter blank verse I was working on a while back:
 
 *In Chinese, we don’t say love.  
 instead my mother asks, “<ruby>
@@ -26,7 +26,7 @@ when I was far from home. She says it like
 I'd only miss the warmth of homemade soups  
 and not the warmth of sitting next to her  
 on weekend evenings as we watched TV.  
-in Mandarin, we don’t admit our love.  
+In Mandarin, we don’t admit our love.  
 Instead my mother brought a plate of fruit  
 up to my room in silence while I slept  
 before departing home for work each day.  
