@@ -1,11 +1,11 @@
 ---
 title: "We Don't Say Love"
+subtitle: "A blank verse poem and discussion on filial affection and piety in Chinese culture"
 date: "2020-05-23T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "we-don't-say-love"
 category: "Poetry"
-
 tags:
   - "Poetry"
   - "Blank Verse"
