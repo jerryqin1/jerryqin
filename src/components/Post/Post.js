@@ -23,7 +23,7 @@ const Post = ({ post }: Props) => {
   return (
     <div className={styles['post']}>
       <div className={styles['post__content']}>
-        <Content body={html} title={title} subtitle={subtitle}/>
+        <Content body={html} title={title}/>
         <p> <Meta date={date} /> </p>
       </div>
 

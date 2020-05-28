@@ -11,7 +11,6 @@ type Props = {
 const Content = ({ body, title, subtitle }: Props) => (
   <div className={styles['content']}>
     <h1 className={styles['content__title']}>{title}</h1>
-    <h3 className={styles['content__subtitle']}>{subtitle}</h3>
     <div className={styles['content__body']} dangerouslySetInnerHTML={{ __html: body }} />
   </div>
 );
