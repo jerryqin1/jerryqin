@@ -16,7 +16,7 @@ type Props = {
 const Post = ({ post }: Props) => {
   const { html } = post;
   const { tagSlugs, slug } = post.fields;
-  const { tags, title} = post.frontmatter;
+  const { tags, title } = post.frontmatter;
 
 
   // <Link className={styles['post__home-button']} to="/">All Articles</Link>
