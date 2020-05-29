@@ -24,20 +24,6 @@ exports[`Post renders correctly 1`] = `
         }
       />
     </div>
-    <p>
-       
-      <div
-        className="meta"
-      >
-        <p
-          className="meta__date"
-        >
-          Updated 
-          Sep 1 2016
-        </p>
-      </div>
-       
-    </p>
   </div>
   <div
     className="post__footer"
