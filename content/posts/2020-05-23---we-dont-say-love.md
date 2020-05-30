@@ -12,12 +12,12 @@ tags:
 description: "A blank verse poem and discussion on filial affection and piety in Chinese culture."
 ---
 
-<span style="display:block; height: 45px;"> <span style="color:grey"> <font size="+3">Exploring Unspoken Affection in Asian Households</font></span></span>
+<span style="display:block; height: 8px;"> <span style="color:grey"> <font size="+2.9">Exploring Unspoken Affection in Asian Communities</font></span></span>
 
 <span style="display:block; height:40px"><strong><font size="-0.8">May 23, 2020</font> <span style="color:grey"> <font size="-0.8">| Updated May 28, 2020 </font></span></strong></span>
 
 
-Welcome to my first (real) blog post! Below is a piece in iambic pentameter blank verse I was working on a while back:
+Welcome to my first (official) blog post! Below is a piece in iambic pentameter blank verse I was working on a while back:
 
 *In Chinese, we don’t say love.  
 instead my mother asks, “<ruby>

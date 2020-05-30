@@ -11,7 +11,8 @@ tags:
 description: "A quick introduction to my blog!"
 socialImage: ""
 ---
-<span style="display:block; height: 45px;"> <span style="color:grey"> <font size="+3">A Brief Intro to My Blog</font></span></span>
+<span style="display:block; height: 8px;"> <span style="color:grey"> <font size="+2.9">A Brief Intro to My Blog</font></span></span>
+
 <span style="display:block; height:40px"><strong><font size="-0.8">May 12, 2020</font> <span style="color:grey"> <font size="-0.8"></font></span></strong></span>
 
 <!-- - [Moving Forward](#moving-forward) -->
