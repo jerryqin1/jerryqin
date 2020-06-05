@@ -62,7 +62,34 @@ exports[`Post renders correctly 1`] = `
       <p
         className="author__bio"
       >
-        Test bio
+        <a
+          href="/"
+        >
+          <img
+            align="left"
+            alt="Test name"
+            className="author__photo"
+            src="/test.jpg"
+          />
+        </a>
+        <strong>
+          <a
+            href="/"
+          >
+             
+            <font
+              color="black"
+              size="+2"
+            >
+              Test name
+               
+            </font>
+             
+          </a>
+          <br />
+          Test bio
+           
+        </strong>
         <a
           className="author__bio-twitter"
           href="https://www.twitter.com/#"
@@ -70,7 +97,7 @@ exports[`Post renders correctly 1`] = `
           target="_blank"
         >
           <strong>
-            Test name
+            Follow me
           </strong>
            on Twitter
         </a>

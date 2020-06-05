@@ -37,10 +37,10 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Personal Website and Blog',
     contacts: {
-      email: 'jerry.qin@vanderbilt.edu',
-      facebook: 'jerryqin124/',
+      email: 'jerry[dot]qin[at]vanderbilt[dot]edu',
+      facebook: '',
       telegram: '',
-      twitter: '',
+      twitter: 'doubleqin_',
       github: 'jerryqin1',
       rss: '',
       vkontakte: '',

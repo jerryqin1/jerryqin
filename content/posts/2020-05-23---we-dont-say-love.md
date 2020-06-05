@@ -12,10 +12,11 @@ tags:
 description: "A blank verse poem and discussion on filial affection and piety in Chinese culture."
 ---
 
-<span style="display:block; height: 8px;"> <span style="color:grey"> <font size="+2.9">Exploring Unspoken Affection in Asian Communities</font></span></span>
-
-<span style="display:block; height:40px"><strong><font size="-0.8">May 23, 2020</font> <span style="color:grey"> <font size="-0.8">| Updated May 28, 2020 </font></span></strong></span>
-
+<span style="display:block; height: 40px;"> <span style="color:grey"> <font size="+2.9">Exploring Unspoken Affection in Asian Communities</font></span>
+<br>
+<strong><font size="-0.8">May 23, 2020</font> <span style="color:grey"> <font size="-0.8">| Updated May 28, 2020 </font></span></strong>
+</span>
+<br>
 
 Welcome to my first (official) blog post! Below is a piece in iambic pentameter blank verse I was working on a while back:
 
@@ -48,12 +49,17 @@ And love is way too large a word to be
 encompassed utterly in a small one.  
 So in my family, we don’t say love.  
 Instead, as I depart my room each day  
-I call my mom to ask, “你吃了吗?"*
+I call my mom to ask, “<ruby>
+你 <rp>(</rp><rt>nǐ</rt><rp>)</rp>
+吃 <rp>(</rp><rt>chī</rt><rp>)</rp>
+了 <rp>(</rp><rt>le</rt><rp>)</rp>
+吗 <rp>(</rp><rt>ma</rt><rp>)</rp>
+</ruby>”*
 
 
 I originally wrote this poem for a class I took to develop my poetry-writing and practice writing in form. Some technical details about this poem: it’s written in iambic pentameter blank verse. I chose this topic to address how love is expressed and perceived in Asian communities. Specifically, I wanted to address the phenomenon that Asian-American families rarely say that they love each other and, more often than not, choose to express themselves through selfless action instead of words.
 
-Growing up, I often struggled to reconcile the two, often opposing sides of my identity. Chinese and American culture disagree fundamentally on issues regarding an individual's identity and purpose. While one favors creative expression and individualism, the other prioritizes one's connection and duty to family. Growing up in America andbein immersed in American media and education has helped me develop an understanding of my nation and myself. It's part the experience that drove many of our parents to immigrate to the U.S. in the first place one that has provided many of us with opportunities and freedoms that were unavailable to our parents. Yet this same experience has the power to unequivocally estrange us from our Asian culture and heritage. 
+Growing up, I often struggled to reconcile the two, often opposing sides of my identity. Chinese and American culture disagree fundamentally on issues regarding an individual's identity and purpose. While one favors creative expression and individualism, the other prioritizes one's connection and duty to family. Growing up in America and being immersed in American media and education has helped me develop an understanding of my nation and myself. It's part the experience that drove many of our parents to immigrate to the U.S. in the first place one that has provided many of us with opportunities and freedoms that were unavailable to our parents. Yet this same experience has the power to unequivocally estrange us from our Asian culture and heritage. 
 
 And while I've come to better understand my identity as a Chinese-American, I sometimes still have trouble internalizing some of the nuances of Chinese culture. This poem is my personal attempt to comment on and appreciate the nuance of love in Chinese culture. While we don't express it directly through our words, we demonstrate the immensity of our love for one another through the subtle actions and comments that often go unnoticed by each other. As a result, expressing love and appreciation for others has become synonymous with "show don't tell" in my daily life. 
 
