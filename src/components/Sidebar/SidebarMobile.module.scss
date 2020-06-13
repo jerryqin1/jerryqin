@@ -1,19 +1,13 @@
 @import '../../assets/scss/variables';
 @import '../../assets/scss/mixins';
 
-.sidebar {
+.sidebarMobile {
     width: 100%;
-    position: relative;
+    position: sticky;
     top: 0; 
 
     &__inner {
         padding: 25px 20px 0px;
-    }
-}
-
-@media (min-width: 975px){
-    .sidebar{
-        position: sticky;
     }
 }
 
