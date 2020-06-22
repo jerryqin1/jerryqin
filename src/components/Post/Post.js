@@ -29,7 +29,7 @@ const Post = ({ post }: Props) => {
 
       <div className={styles['post__footer']}>
         {tags && tagSlugs && <Tags tags={tags} tagSlugs={tagSlugs} />}
-        <Author />
+        <p> </p>
       </div>
 
       <div className={styles['post__comments']}>
