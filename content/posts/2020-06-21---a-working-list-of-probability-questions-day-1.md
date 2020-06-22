@@ -23,6 +23,8 @@ This post is mostly for my own self-documentation purposes as I prepare for recr
 
 ###Day One: June 21
 
+Today's problems are relatively simple as I spent a while figuring out the formatting LaTeX on websites.
+
 **Problem 1.** What is the expected number of tosses to get three consecutive heads when flipping a fair coin?
 <span style="display:block; height: 5px;"></span>
 **Solution.** Let $\mathbb{E}[3]$ denote the expected number of rolls for $3$ consecutive heads. If we start rolling and roll a tail first, which has probability $\frac{1}{2}$, then the expected number of tosses will be $\mathbb{E}[3] + 1$. If we roll a head then a tail, which has probability $\frac{1}{4}$, then the expected number will be $\mathbb{E}[n] + 2$. If we roll 2 heads then a tail with probability $\frac{1}{8}$ then expected value is $\mathbb{E}[3] + 3$. Finally if we roll $3$ heads consecutively, which has probability $\frac{1}{8}$, then $\mathbb{E}[3] = 3$. Combining these together, we have

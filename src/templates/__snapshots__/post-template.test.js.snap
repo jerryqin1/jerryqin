@@ -280,53 +280,9 @@ exports[`PostTemplate renders correctly 1`] = `
           </li>
         </ul>
       </div>
-      <div
-        className="author"
-      >
-        <p
-          className="author__bio"
-        >
-          <a
-            href="/"
-          >
-            <img
-              align="left"
-              alt="Test name"
-              className="author__photo"
-              src="/test.jpg"
-            />
-          </a>
-          <strong>
-            <a
-              href="/"
-            >
-               
-              <font
-                color="black"
-                size="+2"
-              >
-                Test name
-                 
-              </font>
-               
-            </a>
-            <br />
-            Test bio
-             
-          </strong>
-          <a
-            className="author__bio-twitter"
-            href="https://www.twitter.com/#"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            <strong>
-              Follow me
-            </strong>
-             on Twitter
-          </a>
-        </p>
-      </div>
+      <p>
+         
+      </p>
     </div>
     <div
       className="post__comments"
